@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338317609823",
+    "firebase_url": "https://pushnotification-2cbea.firebaseio.com",
+    "project_id": "pushnotification-2cbea",
+    "storage_bucket": "pushnotification-2cbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338317609823:android:b1366ddfdde400f65284ea",
+        "android_client_info": {
+          "package_name": "com.everis.pruebasNotificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338317609823-s6hcq46pibs3m4j0i3ga6uohook2ej8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMBHWW4nY_l-n2WqOMV3CwjUqhNCXrRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338317609823-s6hcq46pibs3m4j0i3ga6uohook2ej8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
